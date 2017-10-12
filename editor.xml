@@ -1,0 +1,12 @@
+<application>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <filter name="todo">
+      <pattern index="1" />
+      <pattern index="0" />
+    </filter>
+  </component>
+</application>
